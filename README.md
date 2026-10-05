@@ -12,19 +12,19 @@
 
 ---
 
-### 🧑‍💻 Sobre mí
+### Sobre mí
 
 Ingeniero en **Tecnologías de la Información** con más de 10 años en tecnología: desarrollo de software, redes, telecomunicaciones y docencia. Me gusta usar la lógica para llevar la tecnología a los procesos y encontrar la solución más óptima.
 
-- 🎓 Formándome como **Desarrollador Java Full Stack** en **Generation México** (2026)
-- 🔐 Mi meta: especializarme en **ciberseguridad aplicada a negocios digitales**
-- 👨‍🏫 Fui docente de programación y redes en la **UTXJ** y en **CECyTE Puebla**
-- 📍 Xicotepec de Juárez, Puebla · Disponible para reubicación
-- 🌎 Español nativo · Inglés A2
+- Formándome como **Desarrollador Java Full Stack** en **Generation México** (2026)
+- Mi meta: especializarme en **ciberseguridad aplicada a negocios digitales**
+- Fui docente de programación y redes en la **UTXJ** y en **CECyTE Puebla**
+- Xicotepec de Juárez, Puebla · Disponible para reubicación
+- Español nativo · Inglés A2
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### Tecnologías y herramientas
 
 **Lenguajes y frontend**
 
@@ -59,7 +59,7 @@ Ingeniero en **Tecnologías de la Información** con más de 10 años en tecnolo
 
 ---
 
-### 🏆 Proyectos y logros
+### Proyectos y logros
 
 | Proyecto | Descripción | Logro |
 |---|---|---|
@@ -71,7 +71,7 @@ Ingeniero en **Tecnologías de la Información** con más de 10 años en tecnolo
 
 ---
 
-### 📊 Estadísticas
+### Estadísticas
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=GonzaloVargas-12&show_icons=true&locale=es&theme=transparent&title_color=4338CA&icon_color=4338CA&hide_border=true" />
